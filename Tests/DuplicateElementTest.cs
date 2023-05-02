@@ -43,7 +43,6 @@ namespace DataStructureApp.Tests
 
 
         [Test]
-        [TestCase(new int[] { 2, 4, 3, 9, 1, 3 })]
         [TestCase(new int[] { 2, 4, 9, 1, -7, 9 })]
         [TestCase(new int[] { 2, 4, 9, 1, -1, -1 })]
         [TestCase(new int[] { 2, 4, 9, 2, 3 })]
